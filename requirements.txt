@@ -1,0 +1,4 @@
+aiohttp[speedup]
+docker-compose
+psycopg2-binary
+gino
